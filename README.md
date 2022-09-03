@@ -1,7 +1,5 @@
 # Matsunotakanori.github.io
-
 library
-
 <div>
   <ul>
     <!-- _data フォルダの books.csv からデータを取り出す -->
