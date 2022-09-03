@@ -1,2 +1,4 @@
 data1: library
-data12: daattali/beautiful-jekyll
+remote_theme: daattali/beautiful-jekyll 
+
+
