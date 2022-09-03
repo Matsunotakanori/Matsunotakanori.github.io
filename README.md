@@ -2,10 +2,6 @@
 
 library
 
-test
-# test
-- 1
-- 2
 <div>
   <ul>
     <!-- _data フォルダの books.csv からデータを取り出す -->
