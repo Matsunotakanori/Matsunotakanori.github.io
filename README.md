@@ -20,5 +20,10 @@
   </ul>
 </div>
 
+<script>
+var options = {
+    valueNames: [ 'title' ]
+};
 
-
+var userList = new List('books', options);
+</script>
