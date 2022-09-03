@@ -5,7 +5,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tify@0.27.0/dist/tify.css">
 
 # Matsunotakanori.github.io
-## library
 
 <div id="books">
   <input class="search" placeholder="検索" />
@@ -22,7 +21,6 @@
     {% endfor %}
   </ul>
 </div>
-
 
 <script>
 var options = {
