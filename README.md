@@ -19,11 +19,6 @@
     {% endfor %}
   </ul>
 </div>
-
-
-<hr>
-
-
 <script>
 var options = {
     valueNames: [ 'title' ]
