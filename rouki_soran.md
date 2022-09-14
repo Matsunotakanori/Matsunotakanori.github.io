@@ -4,7 +4,7 @@
 
 ## Matsunotakanori.github.io/rouki_souran
 
-ver 2.4
+ver 2.5
 
 <a href = "https://iss.ndl.go.jp/books/R100000002-I025614893-00">労働基準法解釈総覧　第15版 目次検索</a>
 
@@ -23,7 +23,7 @@ ver 2.4
     {% for mokuji in site.data.rouki_souran_up %}
       <li>
         <!-- books.csv の title 列、 url 列をリンク先に設定 -->
-        <p class="t6">　No.{{ mokuji.t1 }}　&nbsp;{{ mokuji.t2 }}&nbsp;{{ mokuji.t3 }}&nbsp;{{ mokuji.t4 }}&nbsp;{{ mokuji.t5 }}&nbsp;{{ mokuji.t6 }}{{ mokuji.t7 }}&nbsp;</p>
+        <p class="t6">　No.{{ mokuji.t1 }}　&nbsp;{{ mokuji.t2 }}&nbsp;{{ mokuji.t3 }}&nbsp;{{ mokuji.t4 }}&nbsp;{{ mokuji.t5 }}&nbsp;{{ mokuji.t6 }}{{ mokuji.t7 }}--</p>
       </li>
     {% endfor %}
   </ul>
