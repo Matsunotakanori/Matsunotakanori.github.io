@@ -23,7 +23,7 @@ ver 2.6
     {% for mokuji in site.data.rouki_souran_up %}
       <li>
         <!-- books.csv の title 列、 url 列をリンク先に設定 -->
-        <p class="t6">　No.{{ mokuji.t1 }}　&nbsp;{{ mokuji.t2 }}&nbsp;{{ mokuji.t3 }}&nbsp;{{ mokuji.t4 }}&nbsp;{{ mokuji.t5 }}&nbsp;{{ mokuji.t6 }}{{ mokuji.t7 }}--</p>
+        <p class="t6">　No.{{ mokuji.t1 }}　&nbsp;{{ mokuji.t2 }}&nbsp;{{ mokuji.t3 }}&nbsp;{{ mokuji.t4 }}&nbsp;{{ mokuji.t5 }}&nbsp;{{ mokuji.t6 }}--{{ mokuji.t7 }}</p>
       </li>
     {% endfor %}
   </ul>
