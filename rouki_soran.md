@@ -3,6 +3,9 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tify@0.27.0/dist/tify.css">
 
 ## Matsunotakanori.github.io/rouki_soran
+
+ver 1.1
+
 <a href = "https://iss.ndl.go.jp/books/R100000002-I025614893-00">労働基準法解釈総覧　第15版</a>
 
 
@@ -13,8 +16,8 @@
     ページ順
   </button>
   <ul class="list">
-    <!-- _data フォルダの rouki_soran_up.csv からデータを取り出す -->
-    {% for mokuji in site.data.rouki_soran_up %}
+    <!-- _data フォルダの rouki_souran_up.csv からデータを取り出す -->
+    {% for mokuji in site.data.rouki_souran_up %}
       <li>
         <!-- books.csv の title 列、 url 列をリンク先に設定 -->
         <p class="t6">{{ mokuji.t6 }}</p>
@@ -28,6 +31,6 @@ var options = {
     valueNames: [ 't1' ]
 };
 
-var userList = new List('rouki_soran_up', options);
+var userList = new List('rouki_souran_up', options);
 </script>
 
