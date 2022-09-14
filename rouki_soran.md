@@ -4,10 +4,10 @@
 
 ## Matsunotakanori.github.io/rouki_soran
 
-<div id="books">
+<div id="rouki_soran">
   <input class="search" placeholder="検索" />
   <button class="sort" data-sort="t1">
-    タイトルで並べ替え
+    ページ順
   </button>
   <ul class="list">
     <!-- _data フォルダの books.csv からデータを取り出す -->
