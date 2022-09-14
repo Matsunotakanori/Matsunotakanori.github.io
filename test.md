@@ -7,7 +7,7 @@
     
       <li>
         <!-- books.csv の title 列を表示、 url 列をリンク先に設定 -->
-        <p class="title">{{ book.t1 }} {{ book.2 }}</p>
+        <p class="t1">{{ book.t1 }} {{ book.2 }}</p>
       </li>
     {% endfor %}
   </ul>
