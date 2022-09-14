@@ -11,10 +11,10 @@
   </button>
   <ul class="list">
     <!-- _data フォルダの rouki_soran.csv からデータを取り出す -->
-    {% for data in site.data.rouki_soran %}
+    {% for mokuji in site.data.rouki_soran %}
       <li>
         <!-- books.csv の title 列、 url 列をリンク先に設定 -->
-        <p class="t6">{{ rouki_soran.t6 }}</p>
+        <p class="t6">{{ mokuji.t6 }}</p>
       </li>
     {% endfor %}
   </ul>
