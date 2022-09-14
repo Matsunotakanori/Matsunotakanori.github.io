@@ -4,7 +4,7 @@
 
 ## Matsunotakanori.github.io/rouki_soran
 
-ver 1.3
+ver 1.4
 
 <a href = "https://iss.ndl.go.jp/books/R100000002-I025614893-00">労働基準法解釈総覧　第15版</a>
 
@@ -28,7 +28,7 @@ ver 1.3
 
 <script>
 var options = {
-    valueNames: [ 't1' ]
+    valueNames: [ 't6' ]
 };
 
 var userList = new List('rouki_souran_up', options);
