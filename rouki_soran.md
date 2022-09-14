@@ -13,7 +13,7 @@
     ページ順
   </button>
   <ul class="list">
-    <!-- _data フォルダの rouki_soran.csv からデータを取り出す -->
+    <!-- _data フォルダの rouki_soran_up.csv からデータを取り出す -->
     {% for mokuji in site.data.rouki_soran_up %}
       <li>
         <!-- books.csv の title 列、 url 列をリンク先に設定 -->
