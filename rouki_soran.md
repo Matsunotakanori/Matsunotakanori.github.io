@@ -4,7 +4,7 @@
 
 ## Matsunotakanori.github.io/rouki_souran
 
-ver 
+ver 2.0
 
 <a href = "https://iss.ndl.go.jp/books/R100000002-I025614893-00">労働基準法解釈総覧　第15版 目次検索</a>
 
