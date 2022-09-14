@@ -4,7 +4,7 @@
 
 ## Matsunotakanori.github.io/rouki_souran
 
-ver 2.3
+ver 2.4
 
 <a href = "https://iss.ndl.go.jp/books/R100000002-I025614893-00">労働基準法解釈総覧　第15版 目次検索</a>
 
@@ -12,9 +12,12 @@ ver 2.3
 
 <div id="rouki_souran_up">
   <input class="search" placeholder="検索" />
-  <!--<button class="sort" data-sort="t1"> -->
+  
+  <!--<button class="sort" data-sort="t1">
     ページ順
   </button>
+ -->
+  
   <ul class="list">
     <!-- _data フォルダの rouki_souran_up.csv からデータを取り出す -->
     {% for mokuji in site.data.rouki_souran_up %}
