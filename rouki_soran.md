@@ -2,7 +2,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/list.js/2.3.1/list.min.js"></script>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tify@0.27.0/dist/tify.css">
 
-## Matsunotakanori.github.io/rouki_soran
+## Matsunotakanori.github.io/rouki_souran
 
 ver 1.8
 
