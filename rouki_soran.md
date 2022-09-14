@@ -10,9 +10,9 @@ ver 1.1
 
 
 
-<div id="rouki_soran_up">
+<div id="rouki_souran_up">
   <input class="search" placeholder="検索" />
-  <button class="sort" data-sort="t1">
+  <button class="sort" data-sort="t6">
     ページ順
   </button>
   <ul class="list">
@@ -20,7 +20,7 @@ ver 1.1
     {% for mokuji in site.data.rouki_souran_up %}
       <li>
         <!-- books.csv の title 列、 url 列をリンク先に設定 -->
-        <p class="t6">{{ mokuji.t6 }}</p>
+        <p class="t6">{{ mokuji.t1 }}{{ mokuji.t6 }}</p>
       </li>
     {% endfor %}
   </ul>
