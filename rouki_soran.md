@@ -11,7 +11,7 @@
   </button>
   <ul class="list">
     <!-- _data フォルダの rouki_soran.csv からデータを取り出す -->
-    {% for mokuji in site.data.rouki_soran %}
+    {% for mokuji in site.data.rouki_soran_up %}
       <li>
         <!-- books.csv の title 列、 url 列をリンク先に設定 -->
         <p class="t6">{{ mokuji.t6 }}</p>
@@ -25,6 +25,6 @@ var options = {
     valueNames: [ 't1' ]
 };
 
-var userList = new List('rouki_soran', options);
+var userList = new List('rouki_soran_up', options);
 </script>
 
