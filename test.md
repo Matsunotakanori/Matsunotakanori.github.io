@@ -3,10 +3,11 @@
 <div>
   <ul>
     <!-- _data フォルダの books.csv からデータを取り出す -->
-    {% for book in site.data.books %}
+    {% for book in site.data.rouki_souran_up %}
+    
       <li>
         <!-- books.csv の title 列を表示、 url 列をリンク先に設定 -->
-        <p class="title"><a href="{{ book.url }}">{{ book.isbn }} <li>{{ book.title }}</li></a></p>
+        <p class="title">{{ book.t1 }} {{ book.2 }}</p>
       </li>
     {% endfor %}
   </ul>
