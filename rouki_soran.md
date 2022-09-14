@@ -15,7 +15,7 @@
     {% for data in site.data.rouki_soran %}
       <li>
         <!-- books.csv の title 列、 url 列をリンク先に設定 -->
-        <p class="t6">{{ data.t6 }}</a></p>
+        <p class="t6"></p>
       </li>
     {% endfor %}
   </ul>
