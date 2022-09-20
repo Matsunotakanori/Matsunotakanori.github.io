@@ -3,7 +3,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tify@0.27.0/dist/tify.css">
 
 ## Matsunotakanori.github.io/sharoshi_low
-ver 0.1
+ver 0.2
 
 #　社会保険労務士法　2022−09−20
 
