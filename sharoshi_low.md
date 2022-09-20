@@ -22,7 +22,7 @@ ver 0.1
     {% for komoku in site.data.sharoshi_low. %}
       <li>
         <!-- books.csv の title 列、 url 列をリンク先に設定 -->
-        <p class="t2">{{ komoku.t1 }}　&nbsp;{{ koomku.t2 }}&nbsp;{{ komoku.t3 }}</p>
+        <p class="t2">{{ komoku.t1 }}　&nbsp;{{ komoku.t2 }}&nbsp;{{ komoku.t3 }}</p>
       </li>
     {% endfor %}
   </ul>
