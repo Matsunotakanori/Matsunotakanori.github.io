@@ -3,16 +3,16 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tify@0.27.0/dist/tify.css">
 
 ## Matsunotakanori.github.io/sharoshi_low
-ver 0.2
+ver 0.3
 
 #　社会保険労務士法　2022−09−20
 
 
 
-<div id="rouki_souran_up">
+<div id="sharoshi_low">
   <input class="search" placeholder="検索" />
 
- <button class="sort" data-sort="t1">
+ <button class="sort" data-sort="t2">
     掲載順
   </button>
 
