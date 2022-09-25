@@ -6,7 +6,7 @@
   <link href="http://matsunotakanori.github.io/atom.xml" rel="self"/>
   
   <link href="http://matsunotakanori.github.io/"/>
-  <updated>2022-09-24T22:44:49.590Z</updated>
+  <updated>2022-09-25T09:13:51.684Z</updated>
   <id>http://matsunotakanori.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2022092602</title>
+    <link href="http://matsunotakanori.github.io/2022/09/25/2022092602/"/>
+    <id>http://matsunotakanori.github.io/2022/09/25/2022092602/</id>
+    <published>2022-09-25T08:47:54.000Z</published>
+    <updated>2022-09-25T09:13:51.684Z</updated>
+    
+    <content type="html"><![CDATA[<p>読む・打つ・書く<br>読書・書評・執筆をめぐる理系研究者の日々<br>三中　信宏 著<br>ISBN978-4-13-063376-5発売日:2021年06月18日判型:四六ページ数：368頁<br>61~110p</p><h1 id="事項"><a href="#事項" class="headerlink" title="事項"></a>事項</h1><ul><li>フィジカルアンカー</li><li>アブアクション</li><li>バンドル契約</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;読む・打つ・書く&lt;br&gt;読書・書評・執筆をめぐる理系研究者の日々&lt;br&gt;三中　信宏 著&lt;br&gt;ISBN978-4-13-063376-5発売日:2021年06月18日判型:四六ページ数：368頁&lt;br&gt;61~110p&lt;/p&gt;
+&lt;h1 id=&quot;事項&quot;&gt;&lt;a href=&quot;#事項</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>所蔵雑誌（美濃加茂市東、美濃加茂市中央、可児中央)</title>
@@ -63,9 +84,9 @@
     <link href="http://matsunotakanori.github.io/2022/09/24/2022092302/"/>
     <id>http://matsunotakanori.github.io/2022/09/24/2022092302/</id>
     <published>2022-09-24T08:44:53.000Z</published>
-    <updated>2022-09-24T08:51:13.722Z</updated>
+    <updated>2022-09-25T20:29:55.955Z</updated>
     
-    <content type="html"><![CDATA[<p>＃投稿<br>– ファイル作成<br>作業ディレクトリ&#x3D;brog_matsuno&#x2F;source&#x2F;_posts<br>hexo new [ファイル名]<br>hexo d -g</p><p>– HP 枠組み更新<br>作業ディレクトリ＝brog_matsuno<br>hexo deploy -g</p>]]></content>
+    <content type="html"><![CDATA[<p>＃投稿<br>– ファイル作成<br>作業ディレクトリ&#x3D;brog_matsuno&#x2F;source&#x2F;_posts<br>hexo new [ファイル名]<br>hexo d -g</p><p>– HP 枠組み更新<br>作業ディレクトリ＝brog_matsuno<br>hexo deploy -g</p><p>古いテーマと混ざってレイアウト崩れが起きてしまったら</p><ol><li>hexo clean</li><li>hexo generate</li></ol>]]></content>
     
     
       
