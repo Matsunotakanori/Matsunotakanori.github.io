@@ -80,11 +80,11 @@
   </entry>
   
   <entry>
-    <title>2022-09-23RSS配信</title>
+    <title>20220923 RSS配信</title>
     <link href="http://matsunotakanori.github.io/2022/09/23/20220923/"/>
     <id>http://matsunotakanori.github.io/2022/09/23/20220923/</id>
     <published>2022-09-23T08:01:21.000Z</published>
-    <updated>2022-09-25T21:58:43.974Z</updated>
+    <updated>2022-09-25T22:08:21.314Z</updated>
     
     <content type="html"><![CDATA[<h2 id="カレントアウエネス-2022-09-22"><a href="#カレントアウエネス-2022-09-22" class="headerlink" title="カレントアウエネス(2022-09-22)"></a>カレントアウエネス(2022-09-22)</h2><ul><li><p>【イベント】説明会「有償等オンライン資料（電子書籍・電子雑誌等）の制度収集開始について」（10&#x2F;26・オンライン）Posted 2022年9月22日<br><a href="https://current.ndl.go.jp/node/46872">https://current.ndl.go.jp/node/46872</a></p></li><li><p>欧州研究図書館協会（LIBER）、シングルサインオン（SSO）認証実施の原則と推奨事項のバージョン2を公開<br><a href="https://current.ndl.go.jp/node/46869">https://current.ndl.go.jp/node/46869</a></p></li></ul><h2 id="New-from-ACRL-2022-09-21"><a href="#New-from-ACRL-2022-09-21" class="headerlink" title="New from ACRL(2022-09-21)"></a>New from ACRL(2022-09-21)</h2><ul><li>Designing Libraries for the 21st Century<br><a href="https://www.ala.org/news/member-news/2022/09/new-acrl-designing-libraries-21st-century">https://www.ala.org/news/member-news/2022/09/new-acrl-designing-libraries-21st-century</a></li></ul><h2 id="hexo-設定"><a href="#hexo-設定" class="headerlink" title="hexo 設定"></a>hexo 設定</h2><ul><li><p>ファイル作成<br>作業ディレクトリ&#x3D;brog_matsuno&#x2F;source&#x2F;_posts<br>hexo new [ファイル名]<br>hexo d -g</p></li><li><p>HP 枠組み更新<br>作業ディレクトリ＝brog_matsuno<br>hexo deploy -g</p></li><li><p>古いテーマと混ざってレイアウト崩れが起きてしまったら</p></li></ul><ol><li>hexo clean</li><li>hexo generate</li></ol><ul><li>記事を作成<br>hexo new(n) [layout] “marumaru”<br>layout説明<br>post記事<br>page固定ページ<br>draft下書き</li></ul>]]></content>
     
