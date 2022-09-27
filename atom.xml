@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>備忘録</title>
+  <title>備忘録 test</title>
   
   <subtitle>Takanori Matsuno</subtitle>
   <link href="http://matsunotakanori.github.io/atom.xml" rel="self"/>
   
   <link href="http://matsunotakanori.github.io/"/>
-  <updated>2022-09-25T22:07:00.593Z</updated>
+  <updated>2022-09-26T09:22:37.138Z</updated>
   <id>http://matsunotakanori.github.io/</id>
   
   <author>
@@ -18,18 +18,32 @@
   
   <entry>
     <title>20220926</title>
+    <link href="http://matsunotakanori.github.io/2022/09/26/20220926-1/"/>
+    <id>http://matsunotakanori.github.io/2022/09/26/20220926-1/</id>
+    <published>2022-09-26T09:22:37.000Z</published>
+    <updated>2022-09-26T09:22:37.138Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>20220926読書メモ</title>
     <link href="http://matsunotakanori.github.io/2022/09/25/20220926/"/>
     <id>http://matsunotakanori.github.io/2022/09/25/20220926/</id>
     <published>2022-09-25T08:47:54.000Z</published>
-    <updated>2022-09-25T22:07:00.593Z</updated>
+    <updated>2022-09-26T21:49:34.827Z</updated>
     
-    <content type="html"><![CDATA[<p>読む・打つ・書く<br>読書・書評・執筆をめぐる理系研究者の日々<br>三中　信宏 著<br>ISBN978-4-13-063376-5発売日:2021年06月18日判型:四六ページ数：368頁<br>61~110p</p><h1 id="事項"><a href="#事項" class="headerlink" title="事項"></a>事項</h1><ul><li>フィジカルアンカー</li><li>アブアクション</li><li>バンドル契約</li></ul>]]></content>
+    <content type="html"><![CDATA[<p>読む・打つ・書く : 読書・書評・執筆をめぐる理系研究者の日々 &#x2F; 三中　信宏 著 ISBN978-4-13-063376-5</p><ol><li>118p<br>The slippery art of book reviewing<br>著者:Mayra Calvani (著者) Anne K. Edwards<br><a href="https://www.worldcat.org/ja/search?q=slippery+art+book">https://www.worldcat.org/ja/search?q=slippery+art+book</a></li></ol><p>Ciniiで検索するも、国内所蔵間なし。<br>Internet Archiveで提供されいるが、</p><h1 id="事項"><a href="#事項" class="headerlink" title="事項"></a>事項</h1><ul><li>フィジカルアンカー</li><li>アブアクション</li><li>バンドル契約</li></ul>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;読む・打つ・書く&lt;br&gt;読書・書評・執筆をめぐる理系研究者の日々&lt;br&gt;三中　信宏 著&lt;br&gt;ISBN978-4-13-063376-5発売日:2021年06月18日判型:四六ページ数：368頁&lt;br&gt;61~110p&lt;/p&gt;
-&lt;h1 id=&quot;事項&quot;&gt;&lt;a href=&quot;#事項</summary>
+    <summary type="html">&lt;p&gt;読む・打つ・書く : 読書・書評・執筆をめぐる理系研究者の日々 &amp;#x2F; 三中　信宏 著 ISBN978-4-13-063376-5&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;118p&lt;br&gt;The slippery art of book reviewing&lt;br&gt;著者:Mayra </summary>
       
     
     
@@ -64,7 +78,7 @@
     <link href="http://matsunotakanori.github.io/2022/09/24/20220924/"/>
     <id>http://matsunotakanori.github.io/2022/09/24/20220924/</id>
     <published>2022-09-24T08:55:04.000Z</published>
-    <updated>2022-09-25T22:07:20.840Z</updated>
+    <updated>2022-09-25T22:08:37.572Z</updated>
     
     <content type="html"><![CDATA[<p>専門図書館の蔵書の書誌に対するISBN大量遡及入力の実践 : たましん地域文化財団歴史資料室を事例に<br>掲載誌 現代の図書館 &#x3D; Libraries today &#x2F; 日本図書館協会現代の図書館編集委員会 編 60(2)&#x3D;242:2022.6 p.106-113</p>]]></content>
     
