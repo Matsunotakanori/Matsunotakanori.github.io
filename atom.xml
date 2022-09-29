@@ -45,7 +45,7 @@
     <link href="http://matsunotakanori.github.io/2022/09/28/20220928-2/"/>
     <id>http://matsunotakanori.github.io/2022/09/28/20220928-2/</id>
     <published>2022-09-28T03:32:27.000Z</published>
-    <updated>2022-09-29T23:21:47.101Z</updated>
+    <updated>2022-09-29T23:30:38.726Z</updated>
     
     <content type="html"><![CDATA[<p>プラトーノフが書いた「もうひとつの革命」<br>文學界10月号<br><a href="https://books.bunshun.jp/articles/-/7430">https://books.bunshun.jp/articles/-/7430</a></p><blockquote><p>工藤順さんは東京外国語大学でロシア語を学んだ後、現在は図書館で司書として働きながら、翻訳をされてきた。<br>二〇一九年に私が仕事の都合で東京から京都に移ることになって、</p></blockquote><p>どこの図書館なんろう。東京から京都に移動するとしたら、あの図書館しかないような。。。</p>]]></content>
     
@@ -60,31 +60,6 @@
     
     
     <category term="文學界" scheme="http://matsunotakanori.github.io/tags/%E6%96%87%E5%AD%B8%E7%95%8C/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>hexo 設定</title>
-    <link href="http://matsunotakanori.github.io/2022/09/27/20220927-3/"/>
-    <id>http://matsunotakanori.github.io/2022/09/27/20220927-3/</id>
-    <published>2022-09-27T11:32:02.000Z</published>
-    <updated>2022-09-28T03:57:02.264Z</updated>
-    
-    <content type="html"><![CDATA[<ul><li><p>ファイル作成<br>作業ディレクトリ&#x3D;brog_matsuno&#x2F;source&#x2F;_posts<br>hexo new [ファイル名]<br>hexo d -g</p></li><li><p>HP 枠組み更新<br>作業ディレクトリ＝brog_matsuno<br>hexo deploy -g</p></li><li><p>古いテーマと混ざってレイアウト崩れが起きてしまったら</p></li></ul><ol><li>hexo clean</li><li>hexo generate</li></ol><ul><li>記事を作成<br>hexo new(n) [layout] “marumaru”<br>layout説明<br>post記事<br>page固定ページ<br>draft下書き</li></ul>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;ファイル作成&lt;br&gt;作業ディレクトリ&amp;#x3D;brog_matsuno&amp;#x2F;source&amp;#x2F;_posts&lt;br&gt;hexo new [ファイル名]&lt;br&gt;hexo d -g&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;HP 枠組み更新&lt;br&gt;作業ディレ</summary>
-      
-    
-    
-    
-    
-    <category term="hexo" scheme="http://matsunotakanori.github.io/tags/hexo/"/>
     
   </entry>
   
