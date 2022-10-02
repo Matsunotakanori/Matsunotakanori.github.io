@@ -6,7 +6,7 @@
   <link href="http://matsunotakanori.github.io/atom.xml" rel="self"/>
   
   <link href="http://matsunotakanori.github.io/"/>
-  <updated>2022-10-02T02:58:31.419Z</updated>
+  <updated>2022-10-02T03:04:01.750Z</updated>
   <id>http://matsunotakanori.github.io/</id>
   
   <author>
@@ -21,22 +21,15 @@
     <link href="http://matsunotakanori.github.io/2022/10/02/20221002%E8%AA%AD%E6%9B%B8%E4%BC%9A/"/>
     <id>http://matsunotakanori.github.io/2022/10/02/20221002%E8%AA%AD%E6%9B%B8%E4%BC%9A/</id>
     <published>2022-10-02T02:41:07.000Z</published>
-    <updated>2022-10-02T02:58:31.419Z</updated>
+    <updated>2022-10-02T03:04:01.750Z</updated>
     
-    <content type="html"><![CDATA[<ul><li>[The eResearch Australasia Conference] (https://conference.eresearch.edu.au/)</li><li>[日本の研究機関における研究データ管理（RDM）の実践状況](https://www.nistep.go.jp/wp/wp-content/uploads/NISTEP-STIH8-1-00287.pdf)</li><li>[ソフトウェアカーペントリーの初日本語ワークショップ] (https://carpentries.org/blog/2021/06/first-japanese-r-workshop-ja/)</li><li> [R によるデータ解析入門](https://swcarpentry-ja.github.io/2021-04-02-todai-online-ja/)</li><li>[Instructor Training インストラクターのトレーニング](https://carpentries.github.io/instructor-training/)</li><li>[Integration of Jupyter with RDM and repository systems](https://conference.eresearch.edu.au/2022/08/integration-of-jupyter-with-rdm-and-repository-systems/)</li><li>[今年のCode4Lib JapanでのGitHub Pagesのチュートリアル](https://github.com/nabeta/c4ljp2022-tutorial/wiki(Hacky Hour) https://www.griffith.edu.au/eresearch-services/hacky-hour)</li><li>[OpenRefineのセットアップ](https://openrefine.org/download.html)</li></ul>]]></content>
+    <content type="html"><![CDATA[<ol><li><p>[The eResearch Australasia Conference]<br>(<a href="https://conference.eresearch.edu.au/">https://conference.eresearch.edu.au/</a>)</p></li><li><p>[日本の研究機関における研究データ管理（RDM）の実践状況]<br>(<a href="https://www.nistep.go.jp/wp/wp-content/uploads/NISTEP-STIH8-1-00287.pdf">https://www.nistep.go.jp/wp/wp-content/uploads/NISTEP-STIH8-1-00287.pdf</a>)</p></li><li><p>[ソフトウェアカーペントリーの初日本語ワークショップ] (<a href="https://carpentries.org/blog/2021/06/first-japanese-r-workshop-ja/">https://carpentries.org/blog/2021/06/first-japanese-r-workshop-ja/</a>)</p></li><li><p>[R によるデータ解析入門]<br>(<a href="https://swcarpentry-ja.github.io/2021-04-02-todai-online-ja/">https://swcarpentry-ja.github.io/2021-04-02-todai-online-ja/</a>)</p></li><li><p>[Instructor Training インストラクターのトレーニング]<br>(<a href="https://carpentries.github.io/instructor-training/">https://carpentries.github.io/instructor-training/</a>)</p></li><li><p>[Integration of Jupyter with RDM and repository systems]<br>(<a href="https://conference.eresearch.edu.au/2022/08/integration-of-jupyter-with-rdm-and-repository-systems/">https://conference.eresearch.edu.au/2022/08/integration-of-jupyter-with-rdm-and-repository-systems/</a>)</p></li><li><p>[今年のCode4Lib JapanでのGitHub Pagesのチュートリアル]<br>(<a href="https://github.com/nabeta/c4ljp2022-tutorial/wiki">https://github.com/nabeta/c4ljp2022-tutorial/wiki</a></p></li><li><p>(Hacky Hour) <a href="https://www.griffith.edu.au/eresearch-services/hacky-hour">https://www.griffith.edu.au/eresearch-services/hacky-hour</a>)</p></li><li><p>[OpenRefineのセットアップ]<br>(<a href="https://openrefine.org/download.html">https://openrefine.org/download.html</a>)</p></li></ol>]]></content>
     
     
       
       
-    <summary type="html">&lt;ul&gt;
-&lt;li&gt;
-[The eResearch Australasia Conference] 
-(https://conference.eresearch.edu.au/)
-&lt;/li&gt;
-
-&lt;li&gt;
-[日本の研究機関における研究データ管理（RDM）の	実践状況]
-(https:</summary>
+    <summary type="html">&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;[The eResearch Australasia Conference]&lt;br&gt;(&lt;a href=&quot;https://conference.eresearch.edu.au/&quot;&gt;https://conference.eresearch.edu.au/&lt;/</summary>
       
     
     
