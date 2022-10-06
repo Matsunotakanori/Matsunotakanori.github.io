@@ -6,7 +6,7 @@
   <link href="http://matsunotakanori.github.io/atom.xml" rel="self"/>
   
   <link href="http://matsunotakanori.github.io/"/>
-  <updated>2022-10-02T03:04:01.750Z</updated>
+  <updated>2022-10-06T22:12:42.372Z</updated>
   <id>http://matsunotakanori.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>20221007広報みのかも 記事検索</title>
+    <link href="http://matsunotakanori.github.io/2022/10/07/20221007%E5%BA%83%E5%A0%B1%E3%81%BF%E3%81%AE%E3%81%8B%E3%82%82/"/>
+    <id>http://matsunotakanori.github.io/2022/10/07/20221007%E5%BA%83%E5%A0%B1%E3%81%BF%E3%81%AE%E3%81%8B%E3%82%82/</id>
+    <published>2022-10-06T22:07:48.000Z</published>
+    <updated>2022-10-06T22:12:42.372Z</updated>
+    
+    <content type="html"><![CDATA[<p>先月のcode4libで習ったgithub pageを使って、<br>住んでいる町の広報誌の記事検索ページを作成してみました。<p><br>URLは、次のとおりです。<br><a href="https://matsunotakanori.github.io/kyodo_shiryo.github.io/">https://matsunotakanori.github.io/kyodo_shiryo.github.io/</a></p><p>ほとんどは、東大の前田さんのgithubから流用しています。<br><a href="https://github.com/maedaak/listjs_jikyll-test">https://github.com/maedaak/listjs_jikyll-test</a></p><p>検索対象データ、市役所のHPから拾いました。<br><a href="https://www.city.minokamo.gifu.jp/shimin/contents.cfm?base_id=6449&amp;mi_id=5&amp;g1_id=16&amp;g2_id=76">https://www.city.minokamo.gifu.jp/shimin/contents.cfm?base_id=6449&amp;mi_id=5&amp;g1_id=16&amp;g2_id=76</a></p><p>作成したデータは、TSV形式でしたが、ちゃんと読んでくれました。<p><br>採録範囲、2014年度以降で、特集のタイトルのみです。<br>ちょっとした索引を作って公開するという方法としては、便利だと思います。<p><br>ただ、アクセス先の市報のPDFのURLは、DOIが付与されていません。<p><br>せっかく入力したURLが変更されると、アクセスできないことも想定されます。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;先月のcode4libで習ったgithub pageを使って、&lt;br&gt;住んでいる町の広報誌の記事検索ページを作成してみました。&lt;p&gt;&lt;br&gt;URLは、次のとおりです。&lt;br&gt;&lt;a href=&quot;https://matsunotakanori.github.io/kyodo_s</summary>
+      
+    
+    
+    
+    
+    <category term="記事検索" scheme="http://matsunotakanori.github.io/tags/%E8%A8%98%E4%BA%8B%E6%A4%9C%E7%B4%A2/"/>
+    
+  </entry>
   
   <entry>
     <title>20221002読書会</title>
